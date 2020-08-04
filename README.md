@@ -3,7 +3,7 @@
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
 
-I'm Luis Santiago 😃. I'm from Veracruz, México and currently working on my startup, dVolada 🛵 and still working on other proyects..I love to explore and learn about new things.
+I'm Luis Santiago 😃. I'm from Veracruz, México and currently working on my startup, dVolada 🛵 (and other stuff)..I love to explore and learn about new things.
 
 [![GitHub followers](https://img.shields.io/github/followers/luissantiagodev?style=social)](https://www.github.com/luissantiagodev)
 [![Twitter Follow](https://img.shields.io/twitter/follow/luissantiagodev?style=social)](https://www.twitter.com/luissantiagodev)
